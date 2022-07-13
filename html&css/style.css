@@ -1,0 +1,28 @@
+table{
+    border-top: solid 3px grey;
+    border-left: solid 3px grey;
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
+    padding: 4px;
+}
+
+
+table tr td{
+    border: solid 2px black;
+    padding: 4px;
+}
+.head{
+    font-weight: bold;
+}
+.head :last-child{
+    text-align: center;
+}
+
+.list{
+    text-align: center;
+    font-weight: normal;
+}
+.info{
+    font-weight: bold;
+    text-align: center;
+}
